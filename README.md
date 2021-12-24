@@ -6,7 +6,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
 **Cons:** There will be some view drop always. 
 
 
-File path edited for unix system. You can just drag and drop the proxy file on terminal (Avoid to leave any space and of the urls)
+File path edited for unix system. You can just drag and drop the proxy file on terminal (Avoid to leave any space end of the urls)
 
 
 # Requirements
