@@ -176,12 +176,10 @@ File path edited for unix system. You can just drag and drop the proxy file on t
   To get the most out of this script you should maintain these things.
   * Don't use HEADLESS mode. Because no IP leak prevention, fingerprint defending, etc. can be done in headless mode.
   * Youtube doesn't count views from the same IP after a certain time. Like, don't expect to get 100 views from 10 proxies. If you want more views, try to use a lot of premium proxies(free proxies are flagged by most websites). DO NOT use TOR proxies.
-  * Use both [urls.txt](https://github.com/MShawon/YouTube-Viewer#urls) and [search.txt](https://github.com/MShawon/YouTube-Viewer#search)
-  * And use as many [urls](https://github.com/MShawon/YouTube-Viewer#urls) and [keyword::::title](https://github.com/MShawon/YouTube-Viewer#search) as you can. Don't use just one video.
+  * Use both [urls.txt](TundzhayDzhansaz/Youtube-Viewer#urls) and [search.txt](TundzhayDzhansaz/Youtube-Viewer#search)
+  * And use as many [urls](TundzhayDzhansaz/Youtube-Viewer#urls) and [keyword::::title](TundzhayDzhansaz/Youtube-Viewer#search) as you can. Don't use just one video.
+  * Check how to pull automatically proxy list on Github repo [proxy-list-auto-pull-in-30min](https://github.com/TundzhayDzhansaz/proxy-list-auto-pull-in-30min)
 
-
- # Issues
- Before opening an issue, please read this page thoroughly. Maybe someone already faced the same problem you have right now. So it's always a good idea to check the answer to issues first. If your problem isn't there, feel free to open an issue. Also, don't forget to give as many details as you can. config.json and a screenshot of terminal output provide a handful of information to resolve your problem.
 
 # Credits to Monirul Shawon
-Thanks for support the open source [Monirul Shawon](https://github.com/MShawon)I just made a little small touch about proxt file. 
+Thanks for support the open source [Monirul Shawon](https://github.com/MShawon) I just made a little small touch about proxy file. 
